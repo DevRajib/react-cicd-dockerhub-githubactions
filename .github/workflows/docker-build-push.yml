@@ -36,5 +36,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            your-dockerhub-username/my-react-app:${{ env.VERSION }}
-            your-dockerhub-username/my-react-app:latest
+            devopsrajib/react-cicd-dockerhub-githubactions:${{ env.VERSION }}
+            devopsrajib/react-cicd-dockerhub-githubactions:latest
