@@ -38,3 +38,5 @@ jobs:
           tags: |
             devopsrajib/react-cicd-dockerhub-githubactions:${{ env.VERSION }}
             devopsrajib/react-cicd-dockerhub-githubactions:latest
+
+            
